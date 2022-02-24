@@ -21,6 +21,7 @@
 - [Daniel B.]  (https://github.com/Danvs60)
 - [Samia Alghamdi]
 - [Juan M]
+- [luissabio] (https://github.com/luissabio)
 - [luissoy] (https://github.com/luissabio)
 - [Carl Che] (https://github.com/CarlChe)
 - [Dalan K] (https://github.com/ShakerrRL)
